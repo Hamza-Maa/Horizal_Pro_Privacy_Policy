@@ -13,14 +13,11 @@ We collect the following types of information:
 ### 1.2 Uploaded Content:
 - Books or content you upload to the App for selection, summarization, translation, chatting, or enhanced design interactions.
 
-### 1.3 Usage Data:
-- Information about how you use the App, such as features accessed, books selected, summaries or translations created, and chatbot interactions.
-
 ### 1.4 Device Information:
 - Data about your device, such as device model, operating system, unique device identifiers, and app version.
 
 ### 1.5 Location Information (if enabled):
-- Approximate location based on your IP address or device settings, used to provide language and regional customizations.
+- Approximate location based on your IP address or device settings, used to access pay method for signup.
 
 ## 2. How We Use Your Information
 We use your information to:
@@ -46,14 +43,12 @@ We do not sell or rent your personal data to third parties. We may share your in
 
 ## 4. Data Storage and Security
 - Your data is securely stored using industry-standard practices to prevent unauthorized access or disclosure.
-- Uploaded content is processed temporarily and may be deleted after processing, depending on the App’s functionality.
 - Retention of personal data is limited to the duration necessary for providing the App’s services or complying with legal obligations.
 
 ## 5. User Rights
 As a user, you have the following rights:
 
-- **Access and Update:** You can access and update your personal information through the App.
-- **Deletion:** Request the deletion of your data by contacting us.
+- **Access ** You can access your personal information through the App.
 - **Data Portability:** Request a copy of your personal data in a commonly used format.
 - **Opt-out:** Opt out of certain data collection features by adjusting your device settings.
 
